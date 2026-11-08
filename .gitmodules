@@ -4,3 +4,6 @@
 [submodule "models/PSPStain"]
 	path = models/PSPStain
 	url = git@github.com:Post-Modern28/PSPStain.git
+[submodule "models/TDKstain"]
+	path = models/TDKstain
+	url = git@github.com:Post-Modern28/TDKstain.git
