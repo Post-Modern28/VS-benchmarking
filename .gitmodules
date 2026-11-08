@@ -1,3 +1,6 @@
 [submodule "models/BCI"]
 	path = models/BCI
 	url = git@github.com:Post-Modern28/BCI.git
+[submodule "models/PSPStain"]
+	path = models/PSPStain
+	url = git@github.com:Post-Modern28/PSPStain.git
