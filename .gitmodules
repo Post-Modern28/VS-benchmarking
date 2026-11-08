@@ -7,3 +7,6 @@
 [submodule "models/TDKstain"]
 	path = models/TDKstain
 	url = git@github.com:Post-Modern28/TDKstain.git
+[submodule "models/AdaptiveSupervisedPatchNCE"]
+	path = models/AdaptiveSupervisedPatchNCE
+	url = git@github.com:Post-Modern28/AdaptiveSupervisedPatchNCE.git
